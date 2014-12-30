@@ -1,0 +1,9 @@
+{
+  "name": "enable-google-inbox",
+  "title": "Enable Google Inbox",
+  "id": "jid1-SDFC9fEAZRW6gd",
+  "description": "Removes the checks Google put in place to disable firefox accessing Google Inbox, the new mail webapp.",
+  "author": "Hannes Verschore",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
